@@ -218,7 +218,7 @@
 
 # API_KEY = "de7cbe734e7e1b3827bdde85fc351fb2"
 # # TOKEN = "7005024345:AAEoA6Ov-nXKQKt3YN74RAZpo7zz4CnaG08"
-TOKEN = "8074064057:AAEoQGlH77P3x9RV46NmYFG4aBtcaDW9MIU"
+# TOKEN = "8074064057:AAEoQGlH77P3x9RV46NmYFG4aBtcaDW9MIU"
 # bot = telebot.TeleBot(TOKEN)
 
 # @bot.message_handler(commands=['start'])
@@ -277,6 +277,7 @@ from telebot import types
 import requests
 
 API_KEY = "de7cbe734e7e1b3827bdde85fc351fb2"
+TOKEN = "8074064057:AAEoQGlH77P3x9RV46NmYFG4aBtcaDW9MIU"
 # TOKEN = "YOUR_BOT_TOKEN"  # <<< TOKENingizni shu yerga yozing
 bot = telebot.TeleBot(TOKEN)
 
